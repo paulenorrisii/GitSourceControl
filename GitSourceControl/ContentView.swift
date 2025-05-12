@@ -19,6 +19,10 @@ struct ContentView: View {
             Button("Git Source Control") {
                 
             }
+            
+            Button("WTF") {
+                
+            }
         }
         .padding()
         .padding()
