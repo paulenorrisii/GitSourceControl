@@ -27,6 +27,9 @@ struct ContentView: View {
             Button("Another WTF") {
                 
             }
+            Button("Yet another button") {
+                
+            }
         }
         .padding()
         .padding()
