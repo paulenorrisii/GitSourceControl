@@ -16,6 +16,7 @@ struct CommitPlay: View {
         Text("Screen 2")
         Text("Screen 3")
         Text("Screen 4")
+        Text("Screen 5")
         
     }
 }
