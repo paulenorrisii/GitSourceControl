@@ -23,6 +23,10 @@ struct ContentView: View {
             Button("WTF") {
                 
             }
+            
+            Button("Another WTF") {
+                
+            }
         }
         .padding()
         .padding()
